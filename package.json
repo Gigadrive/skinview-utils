@@ -31,6 +31,9 @@
 		"rollup": "^2.16.1",
 		"typescript": "^3.9.5"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
 	"files": [
 		"build"
 	],
@@ -47,6 +50,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bs-community/skinview-utils.git"
+		"url": "git+https://github.com/mcskinhistory/skinview-utils.git"
 	}
 }
