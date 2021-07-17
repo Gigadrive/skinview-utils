@@ -1,6 +1,6 @@
 {
 	"name": "@mcskinhistory/skinview-utils",
-	"version": "0.5.3",
+	"version": "0.6.0",
 	"description": "Utilities for working with Minecraft skins",
 	"type": "module",
 	"main": "build/index.js",
