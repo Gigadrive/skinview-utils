@@ -123,7 +123,7 @@ function computeCapeScale(image: TextureSource): number {
 		// 46x22
 		return image.width / 46;
 	} else {
-		return image.width / 24;
+		return image.width / 21.25;
 	}
 }
 
